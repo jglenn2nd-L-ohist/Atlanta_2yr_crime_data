@@ -5,7 +5,7 @@
     ## Project Workflow
     
     1.  **Data Sourcing & Initial State:**
-        * The raw crime data was initially provided or sourced in an Excel format.
+        * The raw crime data was initially sourced in an Excel format.
         * The initial dataset contained inconsistencies, missing values, or formatting issues (dirty data).
     
     2.  **Data Cleaning in Excel:**
@@ -18,7 +18,7 @@
             * Addressing inconsistencies.
     
     3.  **Data Import into SQL:**
-        * The cleaned data from Excel was imported into a SQL database (e.g., PostgreSQL, MySQL, SQL Server) for more robust analysis.
+        * The cleaned data from Excel was imported into Big Query for more robust analysis.
     
     4.  **Data Analysis and Storytelling with SQL:**
         * SQL queries were used to explore the data, identify trends, patterns, and generate insights related to crime in Atlanta.
